@@ -242,6 +242,9 @@ hr.small {
 }
 
 @media(max-width:768px) {
+  .text-vertical-center h1 {
+    font-size: 3em}
+
     .map {
         height: 75%;
     }
