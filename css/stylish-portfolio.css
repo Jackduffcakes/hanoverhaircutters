@@ -319,6 +319,9 @@ hr.small {
     .map {
         height: 75%;
     }
+    table{font-size:14px !important;margin-left:-15px}
+    .quote{font-size:13px !important;margin-left:-15px;margin-right:-15px}
+
 }
 
 .map iframe {
